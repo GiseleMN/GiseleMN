@@ -1,9 +1,13 @@
 ## Olá... aqui é Gisele 👋
 
 ✨Estudando:
- -👻 C#
+ <div>
+ <img src="https://icongr.am/devicon/csharp-original.svg?size=41&color=dabebe"><p>Iniciando estudos em Backend fazendo o uso do C#
+ </div>
  
  ✨ Algum conhecimento de :
+ 
+
 - 😄   ...HTML
 - 🦋 ...CSS
 - 🔥 ...JavaScript
