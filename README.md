@@ -1,11 +1,13 @@
-## Olá... aqui é Gisele 👋
+# Hey... this is... Gisele 👋
 
-✨Estudando:
+
+## I'm a Fullstack Development student .. 
+✨Currenlty studying:
  <div>
  <img src="https://icongr.am/devicon/csharp-original.svg?size=41&color=dabebe"><p>Iniciando estudos em Backend fazendo o uso do C#
  </div>
  
- ✨ Algum conhecimento de :
+ ✨ Some knowlege of :
  
 
 - 😄   ...HTML
