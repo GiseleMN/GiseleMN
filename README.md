@@ -1,5 +1,5 @@
 
-<h1 align="center" style="margin-top:20px;"> Hey... this is... Gisele 👋 <img src=""> </h1>
+<h1 align="center" style="margin-top:20px;"> Hey... this is... Gisele 👋 </h1>
 
 
 ## I'm a Fullstack Development student .. 
