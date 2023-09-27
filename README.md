@@ -1,15 +1,15 @@
 
-<h1 align="center" style="margin-top:20px;"> Hey... I'm ... Gi 👋 </h1>
+<h1 align="center" > Hey... I'm ... Gi 👋 </h1>
 
 <h3> I'm a Fullstack Development student .. </h3>
 
 <br>
-<div style="dipslay:flex;align:center;gap:20px;">
-  <p style="text-indent:30px;"> 
-     I Started my studies in programming in March 2022, and I found it very interesting what this area allows us to do. In fact, I see that it's an area thst takes us out of our comfort zone and encourages us to envolve and become better, being better profissionals and better people.
+<div align="flex-start">
+  <p> 
+    &nbsp;&nbsp;&nbsp;&nbsp;I Started my studies in programming in March 2022, and I found it very interesting what this area allows us to do. In fact, I see that it's an area thst takes us out of our comfort zone and encourages us to envolve and become better, being better profissionals and better people.
     
   </p> 
-  <img align="center" alt="Coding" width="30%" rounded src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img  alt="Coding" width="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 
